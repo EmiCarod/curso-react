@@ -1,0 +1,36 @@
+{
+    "prendas": [
+    {
+        "name": "Campera",
+        "marca": "nike",
+        "talle": "M"
+    },
+    {
+        "name": "Pantalon",
+        "marca": "Adidas",
+        "talle": "42"
+    },
+    {
+        "name": "Remera",
+        "marca": "Puma",
+        "talle": "S"
+    }
+    ],
+    "tablas": [
+    {
+      "name": "tabla snow",
+      "marca": "burton",
+      "talle": "adulto"
+    },
+    {
+      "name": "tabla ski",
+      "marca": "alpine",
+      "talle": "niño"
+    },
+    {
+      "name": "tabla snow",
+      "marca": "nitro",
+      "talle": "adulto"
+    }
+  ]
+}
